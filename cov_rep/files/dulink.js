@@ -1,0 +1,2 @@
+var g_data = {"11":["work.agnt",80.00,1],"8":["work.alu_if",100.00,1],"6":["work.checker_functions_pkg",45.36,1],"10":["work.drv",84.16,1],"12":["work.main_env",81.81,1],"13":["work.main_test",87.50,1],"9":["work.mon",57.14,1],"19":["work.oc8051_alu",97.52,1],"21":["work.oc8051_divide",99.44,1],"20":["work.oc8051_multiply",98.03,1],"7":["work.scb",91.66,1],"3":["work.seq_item",4.56,1],"4":["work.seq_pkg",36.91,1],"5":["work.sub",90.90,1],"16":["work.tb_top",100.00,1]};
+processDuLinks(g_data);
